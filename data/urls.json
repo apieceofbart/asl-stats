@@ -1,0 +1,26 @@
+[
+  {
+    "id": "asl1",
+    "season": 1,
+    "year": 2016,
+    "url": "https://liquipedia.net/starcraft/ASL/Season_1"
+  },
+  {
+    "id": "asl2",
+    "season": 2,
+    "year": 2016,
+    "url": "https://liquipedia.net/starcraft/ASL/Season_2"
+  },
+  {
+    "id": "asl19",
+    "season": 19,
+    "year": 2024,
+    "url": "https://liquipedia.net/starcraft/ASL/19"
+  },
+  {
+    "id": "asl20",
+    "season": 20,
+    "year": 2024,
+    "url": "https://liquipedia.net/starcraft/ASL/20"
+  }
+]
