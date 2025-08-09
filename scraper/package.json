@@ -2,13 +2,20 @@
   "name": "asl-scraper",
   "version": "1.0.0",
   "type": "module",
+  "engines": {
+    "node": ">=22.18.0"
+  },
   "scripts": {
     "build": "tsc",
-    "start": "node dist/scrape.js"
+    "start": "node dist/scrape.js",
+    "dev": "node scrape.ts"
   },
   "dependencies": {
     "@types/node": "^24.2.1",
     "cheerio": "^1.1.2",
     "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
   }
 }

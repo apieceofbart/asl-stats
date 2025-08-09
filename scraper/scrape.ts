@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
-import * as cheerio from "cheerio";
+// import * as cheerio from "cheerio";
+import { parseTournament } from "./parseTournament.ts";
 
 interface Tournament {
   id: string;
@@ -25,9 +26,13 @@ async function scrapeTournament(tournament: Tournament): Promise<void> {
   }
   const html = await res.text();
 
-  const $ = cheerio.load(html);
-  const title = $("title").text().trim();
-  console.log(`Page title: ${title}`);
+  const tournamentData = parseTournament(html, tournament);
+
+  console.log(
+    `Tournament ${tournament.id} parsed with ${tournamentData.results.length} players.`
+  );
+
+  // TODO: Save to data/tournaments.json etc.
 
   // TODO: parseTournament logic here or import from parseTournament.ts
 }
@@ -38,7 +43,7 @@ async function main(): Promise<void> {
 
   for (const tournament of urls) {
     await scrapeTournament(tournament);
-    break; // For now only first tournament
+    // break; // For now only first tournament
   }
 }
 
