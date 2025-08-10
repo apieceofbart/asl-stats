@@ -11,4 +11,5 @@ export interface TournamentData {
   season: number;
   year: number;
   results: PlayerResult[];
+  finished: boolean;
 }

@@ -43,7 +43,6 @@ async function main(): Promise<void> {
 
   for (const tournament of urls) {
     await scrapeTournament(tournament);
-    // break; // For now only first tournament
   }
 }
 

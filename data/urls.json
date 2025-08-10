@@ -3,120 +3,140 @@
     "id": "asl1",
     "season": 1,
     "year": 2016,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Brood_War/1"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Brood_War/1",
+    "finished": true
   },
   {
     "id": "asl2",
     "season": 2,
     "year": 2016,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Brood_War/2"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Brood_War/2",
+    "finished": true
   },
   {
     "id": "asl3",
     "season": 3,
     "year": 2017,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Brood_War/3"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Brood_War/3",
+    "finished": true
   },
   {
     "id": "asl4",
     "season": 4,
     "year": 2017,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/4"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/4",
+    "finished": true
   },
   {
     "id": "asl5",
     "season": 5,
     "year": 2018,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/5"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/5",
+    "finished": true
   },
   {
     "id": "asl6",
     "season": 6,
     "year": 2018,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/6"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/6",
+    "finished": true
   },
   {
     "id": "asl7",
     "season": 7,
     "year": 2019,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/7"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/7",
+    "finished": true
   },
   {
     "id": "asl8",
     "season": 8,
     "year": 2019,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/8"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/8",
+    "finished": true
   },
   {
     "id": "asl9",
     "season": 9,
     "year": 2020,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/9"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/9",
+    "finished": true
   },
   {
     "id": "asl10",
     "season": 10,
     "year": 2020,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/10"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/10",
+    "finished": true
   },
   {
     "id": "asl11",
     "season": 11,
     "year": 2021,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/11"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/11",
+    "finished": true
   },
   {
     "id": "asl12",
     "season": 12,
     "year": 2021,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/12"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/12",
+    "finished": true
   },
   {
     "id": "asl13",
     "season": 13,
     "year": 2022,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/13"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/13",
+    "finished": true
   },
   {
     "id": "asl14",
     "season": 14,
     "year": 2022,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/14"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/14",
+    "finished": true
   },
   {
     "id": "asl15",
     "season": 15,
     "year": 2023,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/15"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/15",
+    "finished": true
   },
   {
     "id": "asl16",
     "season": 16,
     "year": 2023,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/16"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/16",
+    "finished": true
   },
   {
     "id": "asl17",
     "season": 17,
     "year": 2024,
-    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/17"
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/17",
+    "finished": true
   },
   {
     "id": "asl18",
     "season": 18,
     "year": 2024,
-    "url": "https://liquipedia.net/starcraft/SOOP/StarCraft_League/2024/AUTUMN"
+    "url": "https://liquipedia.net/starcraft/SOOP/StarCraft_League/2024/AUTUMN",
+    "finished": true
   },
   {
     "id": "asl19",
     "season": 19,
     "year": 2025,
-    "url": "https://liquipedia.net/starcraft/ASL/19"
+    "url": "https://liquipedia.net/starcraft/ASL/19",
+    "finished": true
   },
   {
     "id": "asl20",
     "season": 20,
     "year": 2025,
-    "url": "https://liquipedia.net/starcraft/ASL/20"
+    "url": "https://liquipedia.net/starcraft/ASL/20",
+    "finished": false
   }
 ]
