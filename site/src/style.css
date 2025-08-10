@@ -16,7 +16,6 @@ h1 {
 #app {
   max-width: 1000px;
   margin: 0 auto;
-  overflow-x: auto;
 }
 
 table {
@@ -25,7 +24,8 @@ table {
   background: white;
   box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
   border-radius: 8px;
-  overflow: hidden;
+  position: relative;
+  /* overflow: hidden; */
 }
 
 thead {
@@ -38,6 +38,11 @@ thead th {
   text-align: left;
   font-weight: 600;
   user-select: none;
+  background-color: #004aad;
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
 tbody tr:hover {
@@ -57,4 +62,4 @@ a {
 a:hover {
   text-decoration: underline;
 }
-}
+

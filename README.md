@@ -64,7 +64,9 @@ This will fetch and print the page title as a test. Parsing logic will be added 
 ## How It Works
 
 - **Scraper** reads the list of ASL URLs, downloads tournament pages, and extracts player results.
-- **Data** is saved in JSON files for players and tournaments, including race info and best finishes.
+- **Aggregator** processes the raw tournament data and creates a consolidated `players.json` file with aggregated stats like participations, best finishes, races, and last participation.
+- The **data** is saved in JSON files for players and tournaments, including race info and best finishes.
+- For now, you need to **manually copy** the generated `players.json` file into the `public` folder of the static site so it can be loaded by the frontend.
 - The **static site** loads these JSON files and renders a sortable table showing all-time player stats.
 
 ---
