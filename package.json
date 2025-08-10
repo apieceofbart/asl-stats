@@ -1,5 +1,5 @@
 {
-  "name": "asl-scraper",
+  "name": "asl-stats",
   "version": "1.0.0",
   "type": "module",
   "engines": {
@@ -7,8 +7,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "start": "node dist/scrape.js",
-    "dev": "node scrape.ts"
+    "scrape": "node ./scraper/scrape.ts"
   },
   "dependencies": {
     "@types/node": "^24.2.1",

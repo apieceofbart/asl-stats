@@ -5,7 +5,7 @@ import { parseTournament } from "./parseTournament.ts";
 import type { Tournament, TournamentData } from "./types.ts";
 
 const __dirname = path.resolve();
-const urlsPath = path.join(__dirname, "..", "data", "urls.json");
+const urlsPath = path.join(__dirname, ".", "data", "urls.json");
 
 async function scrapeTournament(
   tournament: Tournament
@@ -42,7 +42,7 @@ async function main(): Promise<void> {
     tournamentDataArray.push(tournamentData);
   }
 
-  const tournamentPath = path.join(__dirname, "..", "data", "tournaments.json");
+  const tournamentPath = path.join(__dirname, ".", "data", "tournaments.json");
 
   fs.writeFileSync(
     tournamentPath,
