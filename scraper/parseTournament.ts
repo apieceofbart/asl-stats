@@ -2,6 +2,10 @@ import * as cheerio from "cheerio";
 import type { PlayerResult, TournamentData } from "../types.ts";
 import { assert } from "console";
 
+function normalizePlayerName(name: string) {
+  return name.trim().toLowerCase();
+}
+
 export function parseTournament(
   html: string,
   metadata: {
@@ -35,9 +39,11 @@ export function parseTournament(
       name = name.slice(0, -1);
     }
 
+    const normalizedName = normalizePlayerName(name);
+
     // Get the Liquipedia URL if it's a link inside the element
     const link = player.find("a").attr("href");
-    const liquipediaUrl = link ? `https://liquipedia.net${link}` : null;
+    const liquipediaUrl = `https://liquipedia.net${link}`;
 
     // Extract country from the flag image's alt attribute
     const country = player.find("span.flag img").attr("alt") || "Unknown";
@@ -59,8 +65,8 @@ export function parseTournament(
     const defaultBestFinish: PlayerResult["bestFinish"] =
       metadata.season === 1 ? "ro16" : "participant"; // ASL1 had only 16 participants so they all go to ro16 automatically
 
-    if (!playerMap.has(name) && name !== "TBD") {
-      playerMap.set(name, {
+    if (!playerMap.has(normalizedName) && name !== "TBD") {
+      playerMap.set(normalizedName, {
         name,
         liquipediaUrl,
         races,
@@ -92,7 +98,9 @@ export function parseTournament(
       const playerNamesInRoundOf16 = new Set<string>();
       playersInRoundOf16.each((_, el) => {
         const playerName = $(el).text().trim();
-        playerNamesInRoundOf16.add(playerName);
+        if (playerName) {
+          playerNamesInRoundOf16.add(normalizePlayerName(playerName));
+        }
       });
 
       playerMap.forEach((player) => {
@@ -113,7 +121,7 @@ export function parseTournament(
 
     bracketPlayers.each((index, element) => {
       const player = $(element);
-      const name = player.text().trim();
+      const name = normalizePlayerName(player.text().trim());
 
       // Count occurrences of each player in the bracket
       playerOccurrenceInEliminationBracket.set(
@@ -144,8 +152,10 @@ export function parseTournament(
       .text()
       .trim();
 
-    playerMap.set(winner, {
-      ...playerMap.get(winner)!,
+    const normalizedWinner = normalizePlayerName(winner);
+
+    playerMap.set(normalizedWinner, {
+      ...playerMap.get(normalizedWinner)!,
       bestFinish: "champion",
     });
 

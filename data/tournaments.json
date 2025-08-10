@@ -2,6 +2,7 @@
   {
     "id": "asl1",
     "season": 1,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Brood_War/1",
     "year": 2016,
     "finished": true,
     "results": [
@@ -154,6 +155,7 @@
   {
     "id": "asl2",
     "season": 2,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Brood_War/2",
     "year": 2016,
     "finished": true,
     "results": [
@@ -200,7 +202,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Light",
@@ -209,7 +211,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "EffOrt",
@@ -245,7 +247,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "free",
@@ -281,7 +283,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Soulkey",
@@ -353,7 +355,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Iris",
@@ -380,7 +382,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Sharp",
@@ -389,7 +391,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Last",
@@ -398,7 +400,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Sea",
@@ -414,6 +416,7 @@
   {
     "id": "asl3",
     "season": 3,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Brood_War/3",
     "year": 2017,
     "finished": true,
     "results": [
@@ -460,7 +463,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Shine",
@@ -505,7 +508,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Light",
@@ -577,7 +580,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Pusan",
@@ -613,7 +616,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Larva",
@@ -649,7 +652,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "BeSt",
@@ -667,13 +670,14 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       }
     ]
   },
   {
     "id": "asl4",
     "season": 4,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/4",
     "year": 2017,
     "finished": true,
     "results": [
@@ -720,7 +724,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Stork",
@@ -729,7 +733,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Last",
@@ -756,7 +760,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Mind",
@@ -792,7 +796,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Jaedong",
@@ -801,7 +805,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Mini",
@@ -828,7 +832,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Rain",
@@ -864,7 +868,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "hero",
@@ -909,7 +913,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Bisu",
@@ -934,6 +938,7 @@
   {
     "id": "asl5",
     "season": 5,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/5",
     "year": 2018,
     "finished": true,
     "results": [
@@ -944,7 +949,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Shuttle",
@@ -980,7 +985,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Effort",
@@ -989,7 +994,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Horang2",
@@ -1025,7 +1030,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Calm",
@@ -1052,7 +1057,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Snow",
@@ -1097,7 +1102,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Soulkey",
@@ -1124,7 +1129,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Movie",
@@ -1133,7 +1138,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Sea",
@@ -1194,6 +1199,7 @@
   {
     "id": "asl6",
     "season": 6,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/6",
     "year": 2018,
     "finished": true,
     "results": [
@@ -1204,7 +1210,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Sea",
@@ -1213,7 +1219,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Killer",
@@ -1240,7 +1246,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Shuttle",
@@ -1276,7 +1282,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Mind",
@@ -1285,7 +1291,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Movie",
@@ -1357,7 +1363,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Rush",
@@ -1393,7 +1399,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "GuemChi",
@@ -1429,7 +1435,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Mini",
@@ -1454,6 +1460,7 @@
   {
     "id": "asl7",
     "season": 7,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/7",
     "year": 2019,
     "finished": true,
     "results": [
@@ -1464,7 +1471,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Horang2",
@@ -1500,7 +1507,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "PianO",
@@ -1509,7 +1516,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Action",
@@ -1545,7 +1552,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Mong",
@@ -1581,7 +1588,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "ggaemo",
@@ -1644,7 +1651,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "GuemChi",
@@ -1653,7 +1660,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Tyson",
@@ -1701,15 +1708,6 @@
         "bestFinish": "ro8"
       },
       {
-        "name": "BeSt",
-        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
-        "races": [
-          "Protoss"
-        ],
-        "country": "South Korea",
-        "bestFinish": "ro16"
-      },
-      {
         "name": "Mini",
         "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
         "races": [
@@ -1723,6 +1721,7 @@
   {
     "id": "asl8",
     "season": 8,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/8",
     "year": 2019,
     "finished": true,
     "results": [
@@ -1769,7 +1768,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Larva",
@@ -1778,7 +1777,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "nOOB",
@@ -1805,7 +1804,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Snow",
@@ -1850,7 +1849,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Ample",
@@ -1877,7 +1876,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Sharp",
@@ -1913,7 +1912,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Light",
@@ -1958,7 +1957,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Rain",
@@ -1976,13 +1975,14 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       }
     ]
   },
   {
     "id": "asl9",
     "season": 9,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/9",
     "year": 2020,
     "finished": true,
     "results": [
@@ -1993,7 +1993,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Bisu",
@@ -2065,7 +2065,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Mong",
@@ -2074,7 +2074,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Ss1nz",
@@ -2101,7 +2101,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Light",
@@ -2146,7 +2146,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Sorry",
@@ -2173,7 +2173,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "ZerO",
@@ -2218,7 +2218,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Action",
@@ -2236,13 +2236,14 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       }
     ]
   },
   {
     "id": "asl10",
     "season": 10,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/10",
     "year": 2020,
     "finished": true,
     "results": [
@@ -2253,7 +2254,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "JyJ",
@@ -2262,7 +2263,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Bisu",
@@ -2370,7 +2371,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "sOrry",
@@ -2397,7 +2398,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "BeSt",
@@ -2433,7 +2434,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "free",
@@ -2478,7 +2479,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Flash",
@@ -2503,6 +2504,7 @@
   {
     "id": "asl11",
     "season": 11,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/11",
     "year": 2021,
     "finished": true,
     "results": [
@@ -2522,7 +2524,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Ss1nz",
@@ -2549,7 +2551,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Light",
@@ -2558,7 +2560,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Shine",
@@ -2630,7 +2632,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "sSak",
@@ -2657,7 +2659,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Bisu",
@@ -2666,7 +2668,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "PianO",
@@ -2693,7 +2695,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Mini",
@@ -2738,7 +2740,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Larva",
@@ -2763,6 +2765,7 @@
   {
     "id": "asl12",
     "season": 12,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/12",
     "year": 2021,
     "finished": true,
     "results": [
@@ -2782,7 +2785,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Sharp",
@@ -2845,7 +2848,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "JyJ",
@@ -2854,7 +2857,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Movie",
@@ -2890,7 +2893,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "HyuN",
@@ -2917,7 +2920,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "beast",
@@ -3023,6 +3026,7 @@
   {
     "id": "asl13",
     "season": 13,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/13",
     "year": 2022,
     "finished": true,
     "results": [
@@ -3033,7 +3037,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Shuttle",
@@ -3042,7 +3046,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "beast",
@@ -3141,7 +3145,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "ggaemo",
@@ -3213,7 +3217,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Soulkey",
@@ -3249,7 +3253,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Rush",
@@ -3276,13 +3280,14 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       }
     ]
   },
   {
     "id": "asl14",
     "season": 14,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/14",
     "year": 2022,
     "finished": true,
     "results": [
@@ -3293,7 +3298,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Mini",
@@ -3302,7 +3307,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Sacsri",
@@ -3338,7 +3343,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Shuttle",
@@ -3365,7 +3370,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "RoyaL",
@@ -3410,7 +3415,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "JyJ",
@@ -3482,7 +3487,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Horang2",
@@ -3536,13 +3541,14 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       }
     ]
   },
   {
     "id": "asl15",
     "season": 15,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/15",
     "year": 2023,
     "finished": true,
     "results": [
@@ -3562,7 +3568,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Mini",
@@ -3589,7 +3595,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "BarrackS",
@@ -3598,7 +3604,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "HyuN",
@@ -3661,7 +3667,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Jaedong",
@@ -3706,7 +3712,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Ruin",
@@ -3733,7 +3739,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "JyJ",
@@ -3769,7 +3775,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Rush",
@@ -3778,7 +3784,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Soulkey",
@@ -3803,6 +3809,7 @@
   {
     "id": "asl16",
     "season": 16,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/16",
     "year": 2023,
     "finished": true,
     "results": [
@@ -3849,7 +3856,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Soulkey",
@@ -3885,7 +3892,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "RoyaL",
@@ -3894,7 +3901,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Shuttle",
@@ -3966,7 +3973,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "ZerO",
@@ -4002,7 +4009,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Stork",
@@ -4038,7 +4045,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "hero",
@@ -4056,13 +4063,14 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       }
     ]
   },
   {
     "id": "asl17",
     "season": 17,
+    "url": "https://liquipedia.net/starcraft/AfreecaTV/StarCraft_League_Remastered/17",
     "year": 2024,
     "finished": true,
     "results": [
@@ -4082,7 +4090,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Sea",
@@ -4109,7 +4117,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "hero",
@@ -4154,7 +4162,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "sSak",
@@ -4181,7 +4189,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Shuttle",
@@ -4190,7 +4198,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "TY",
@@ -4226,7 +4234,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Shine",
@@ -4253,7 +4261,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "RoyaL",
@@ -4262,7 +4270,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "beast",
@@ -4323,6 +4331,7 @@
   {
     "id": "asl18",
     "season": 18,
+    "url": "https://liquipedia.net/starcraft/SOOP/StarCraft_League/2024/AUTUMN",
     "year": 2024,
     "finished": true,
     "results": [
@@ -4369,7 +4378,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Mini",
@@ -4378,7 +4387,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "sSak",
@@ -4414,7 +4423,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Sacsri",
@@ -4441,7 +4450,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Sea",
@@ -4450,7 +4459,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Action",
@@ -4486,7 +4495,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Shine",
@@ -4513,7 +4522,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "JyJ",
@@ -4522,7 +4531,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Mind",
@@ -4583,6 +4592,7 @@
   {
     "id": "asl19",
     "season": 19,
+    "url": "https://liquipedia.net/starcraft/ASL/19",
     "year": 2025,
     "finished": true,
     "results": [
@@ -4593,7 +4603,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Scan",
@@ -4602,7 +4612,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Calm",
@@ -4629,7 +4639,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Rush",
@@ -4665,7 +4675,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Best",
@@ -4710,7 +4720,7 @@
           "Protoss"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Killer",
@@ -4782,7 +4792,7 @@
           "Zerg"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "sSak",
@@ -4818,7 +4828,7 @@
           "Terran"
         ],
         "country": "South Korea",
-        "bestFinish": "ro16"
+        "bestFinish": "participant"
       },
       {
         "name": "Rain",
@@ -4843,6 +4853,7 @@
   {
     "id": "asl20",
     "season": 20,
+    "url": "https://liquipedia.net/starcraft/ASL/20",
     "year": 2025,
     "finished": false,
     "results": [

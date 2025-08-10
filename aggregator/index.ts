@@ -52,24 +52,35 @@ for (const tournament of tournaments) {
     // Merge races
     player.races = [...new Set([...player.races, ...result.races])];
 
-    // Increment counts
-    player.participantCount++;
-    switch (result.bestFinish) {
-      case "ro16":
-        player.ro16Count++;
-        break;
-      case "ro8":
-        player.ro8Count++;
-        break;
-      case "ro4":
-        player.ro4Count++;
-        break;
-      case "finalist":
-        player.finalistCount++;
-        break;
-      case "champion":
-        player.championCount++;
-        break;
+    const stages = [
+      "participant",
+      "ro16",
+      "ro8",
+      "ro4",
+      "finalist",
+      "champion",
+    ];
+    const finishIndex = stages.indexOf(result.bestFinish);
+    if (finishIndex === -1) {
+      // unknown bestFinish, fallback to participant only or skip
+      player.participantCount++;
+    } else {
+      for (let i = 0; i <= finishIndex; i++) {
+        const stage = stages[i];
+        const countKey = stage + "Count"; // e.g. ro16Count
+        // Defensive check, but these keys should exist
+        if (countKey in player) {
+          if (player.name === "BeSt") {
+            console.log(
+              "adding participation for best",
+              countKey,
+              tournament.season
+            );
+          }
+          // @ts-ignore
+          player[countKey]++;
+        }
+      }
     }
 
     // Update last participation
