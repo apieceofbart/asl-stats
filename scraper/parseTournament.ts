@@ -4,7 +4,7 @@ import { assert } from "console";
 
 export function parseTournament(
   html: string,
-  metadata: { id: string; season: number; year: number }
+  metadata: { id: string; season: number; year: number; finished: boolean }
 ): TournamentData {
   const $ = cheerio.load(html);
 
@@ -192,6 +192,7 @@ export function parseTournament(
     id: metadata.id,
     season: metadata.season,
     year: metadata.year,
+    finished: metadata.finished,
     results: Array.from(playerMap.values()),
   };
 }

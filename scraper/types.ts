@@ -6,10 +6,15 @@ export interface PlayerResult {
   country: string; // e.g. 'South Korea', 'Unknown'
 }
 
-export interface TournamentData {
+export interface Tournament {
   id: string;
   season: number;
   year: number;
+  url: string;
+  finished: boolean;
+}
+
+export interface TournamentData extends Tournament {
   results: PlayerResult[];
   finished: boolean;
 }

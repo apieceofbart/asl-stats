@@ -1,1 +1,5103 @@
-[]
+[
+  {
+    "id": "asl1",
+    "season": 1,
+    "year": 2016,
+    "finished": true,
+    "results": [
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "free",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Free",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "EffOrt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/EffOrt",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "Jaehoon",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaehoon",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "PianO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/PianO",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Larva",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sea",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sea",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Flash",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Flash",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "ZerO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Last",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Last",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      }
+    ]
+  },
+  {
+    "id": "asl2",
+    "season": 2,
+    "year": 2016,
+    "finished": true,
+    "results": [
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "GuemChi",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/GuemChi",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Ample",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ample",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Larva",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "EffOrt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/EffOrt",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Force(Name)",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Force(Name)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "free",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Free",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "MIsO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/MIsO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Flash",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Flash",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Movie",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Movie",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Terror",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Terror",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Hint",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hint",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Iris",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Iris",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Khala",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Khala",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Last",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Last",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sea",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sea",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      }
+    ]
+  },
+  {
+    "id": "asl3",
+    "season": 3,
+    "year": 2017,
+    "finished": true,
+    "results": [
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "PURPOSE",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/index.php?title=PURPOSE&action=edit&redlink=1",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "EffOrt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/EffOrt",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Shine",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "free",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Free",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Jaehoon",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaehoon",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Lazy",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Lazy",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ggaemo",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ggaemo",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "GuemChi",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/GuemChi",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Pusan",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Pusan",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Last",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Last",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Hyun",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/HyuN",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Larva",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Movie",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Movie",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Flash",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Flash",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Sea",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sea",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      }
+    ]
+  },
+  {
+    "id": "asl4",
+    "season": 4,
+    "year": 2017,
+    "finished": true,
+    "results": [
+      {
+        "name": "Killer",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Killer",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Larva",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sky",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sky",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Last",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Last",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "MIsO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/MIsO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "EffOrt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/EffOrt",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Lazy",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Lazy",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "HiyA",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/HiyA",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Ample",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ample",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "firebathero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Firebathero",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Flash",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Flash",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Shine",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      }
+    ]
+  },
+  {
+    "id": "asl5",
+    "season": 5,
+    "year": 2018,
+    "finished": true,
+    "results": [
+      {
+        "name": "Shine",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Sky",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sky",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Effort",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/EffOrt",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Horang2",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Horang2",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "GuemChi",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/GuemChi",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Calm",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Calm",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Where",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/MIsO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "Last",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Last",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Movie",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Movie",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sea",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sea",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Pusan",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Pusan",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Flash",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Flash",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Larva",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      }
+    ]
+  },
+  {
+    "id": "asl6",
+    "season": 6,
+    "year": 2018,
+    "finished": true,
+    "results": [
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sea",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sea",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Killer",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Killer",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Horang2",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Horang2",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Shine",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "MIsO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/MIsO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ErOs_ByuL",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ByuL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Movie",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Movie",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sacsri",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sacsri",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "EffOrt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/EffOrt",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Last",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Last",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Calm",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Calm",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "GuemChi",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/GuemChi",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Yerim2",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Yerim2",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Flash",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Flash",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      }
+    ]
+  },
+  {
+    "id": "asl7",
+    "season": 7,
+    "year": 2019,
+    "finished": true,
+    "results": [
+      {
+        "name": "Larva",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Horang2",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Horang2",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "NaDa",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/NaDa",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "PianO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/PianO",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Tinkle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Tinkle",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Best",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sacsri",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sacsri",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ZeLoT",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZeLoT",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Modesty",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Modesty",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "ggaemo",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ggaemo",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Calm",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Calm",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Where",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/MIsO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "GuemChi",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/GuemChi",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Tyson",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Tyson",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ByuL",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ByuL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "EffOrt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/EffOrt",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Last",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Last",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      }
+    ]
+  },
+  {
+    "id": "asl8",
+    "season": 8,
+    "year": 2019,
+    "finished": true,
+    "results": [
+      {
+        "name": "Sacsri",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sacsri",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "FlaSh",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Flash",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Soma",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soma",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "GuemChi",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/GuemChi",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Larva",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "nOOB",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/NOOB",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ZeLoT",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZeLoT",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Jaehoon",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaehoon",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Ample",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ample",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "PianO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/PianO",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Hyuk",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hyuk",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Calm",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Calm",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "MIsO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/MIsO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Last",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Last",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Horang2",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Horang2",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      }
+    ]
+  },
+  {
+    "id": "asl9",
+    "season": 9,
+    "year": 2020,
+    "finished": true,
+    "results": [
+      {
+        "name": "Horang2",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Horang2",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Ample",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ample",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "beast",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Beast",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Larva",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "huro",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Huro",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Ss1nz",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ss1nz",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "firebathero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Firebathero",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sea.KH",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Brain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "ForGG",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/FOrGG",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Soma",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soma",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sorry",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Killer",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Killer",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BarrackS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "ZerO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Flash",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Flash",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      }
+    ]
+  },
+  {
+    "id": "asl10",
+    "season": 10,
+    "year": 2020,
+    "finished": true,
+    "results": [
+      {
+        "name": "Leta",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Leta",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Shine",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Yoon",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Yoon_(Amateur)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Larva",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "nOOB",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/NOOB",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "sOrry",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Killer",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Killer",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Sacsri",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sacsri",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BarrackS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "free",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Free",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "beast",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Beast",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ZerO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Flash",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Flash",
+        "races": [
+          "Random"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Soma",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soma",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      }
+    ]
+  },
+  {
+    "id": "asl11",
+    "season": 11,
+    "year": 2021,
+    "finished": true,
+    "results": [
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "EffOrt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/EffOrt",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Ss1nz",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ss1nz",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BarrackS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "sOrry",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Shine",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "YSC",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Huro",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sexy",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Speed",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "SnOw",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Scan",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Scan",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "PianO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/PianO",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ggaemo",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ggaemo",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "MIsO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/MIsO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "hani",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hani",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ZerO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Soma",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soma",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Larva",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      }
+    ]
+  },
+  {
+    "id": "asl12",
+    "season": 12,
+    "year": 2021,
+    "finished": true,
+    "results": [
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "nOOB",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/NOOB",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Ss1nz",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ss1nz",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "free",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Free",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "815",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/815_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "BeSt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Movie",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Movie",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Hyuk",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hyuk",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Soma",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soma",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "BarrackS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "HyuN",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/HyuN",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "beast",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Beast",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Leta",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Leta",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "RoyaL",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Shine",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Ruin",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ruin",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "ZerO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      }
+    ]
+  },
+  {
+    "id": "asl13",
+    "season": 13,
+    "year": 2022,
+    "finished": true,
+    "results": [
+      {
+        "name": "Best",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "beast",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Beast",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BarrackS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Sacsri",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sacsri",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Tyson",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Tyson",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Horang2",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Horang2",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BishOp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BishOp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "RoyaL",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "ggaemo",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ggaemo",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "GuemChi",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/GuemChi",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "soma",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soma",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Ruin",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ruin",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Movie",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Movie",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "ZerO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      }
+    ]
+  },
+  {
+    "id": "asl14",
+    "season": 14,
+    "year": 2022,
+    "finished": true,
+    "results": [
+      {
+        "name": "Best",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sacsri",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sacsri",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "PianO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/PianO",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "BarrackS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ggaemo",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ggaemo",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ZerO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "RoyaL",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "MIsO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/MIsO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "DDasik",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/DDasik",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "SnOw",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Shine",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "HiyA",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/HiyA",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Horang2",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Horang2",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "free",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Free",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "soma",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soma",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      }
+    ]
+  },
+  {
+    "id": "asl15",
+    "season": 15,
+    "year": 2023,
+    "finished": true,
+    "results": [
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "HiyA",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/HiyA",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "BarrackS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "HyuN",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/HyuN",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Best",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "Ample",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ample",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "soma",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soma",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "BishOp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BishOp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ZerO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Shine",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Ruin",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ruin",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sacsri",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sacsri",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "RoyaL",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      }
+    ]
+  },
+  {
+    "id": "asl16",
+    "season": 16,
+    "year": 2023,
+    "finished": true,
+    "results": [
+      {
+        "name": "soma",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soma",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "Leta",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Leta",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Calm",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Calm",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sea",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sea",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Killer",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Killer",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "RoyaL",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Snow",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "EffOrt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/EffOrt",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "free",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Free",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Ample",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ample",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "ZerO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ivOry 인치호",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/IvOry",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Best",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      }
+    ]
+  },
+  {
+    "id": "asl17",
+    "season": 17,
+    "year": 2024,
+    "finished": true,
+    "results": [
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sea",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sea",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "ZeLoT",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZeLoT",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Killer",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Killer",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Best",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "TaeNgGu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/TaeNgGu",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "TY",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BaBy",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "SnOw",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Shine",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Speed",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Speed",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BarrackS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "RoyaL",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "beast",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Beast",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      }
+    ]
+  },
+  {
+    "id": "asl18",
+    "season": 18,
+    "year": 2024,
+    "finished": true,
+    "results": [
+      {
+        "name": "BarrackS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "ZerO",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "1127",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/1127",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Scan",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Scan",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "RoyaL",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sacsri",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sacsri",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Motive",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Motive",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Speed",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Speed",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Sea",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sea",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Best",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Shine",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "huro",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Huro",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "free",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Free",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "SnOw",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      }
+    ]
+  },
+  {
+    "id": "asl19",
+    "season": 19,
+    "year": 2025,
+    "finished": true,
+    "results": [
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Scan",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Scan",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Calm",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Calm",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Shuttle",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Speed",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Speed",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "HyuN",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/HyuN",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "RoyaL",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BarrackS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Best",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "finalist"
+      },
+      {
+        "name": "BTS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BTS",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mind",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Killer",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Killer",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Tyson",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Tyson",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Queen",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Skey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Skey",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Action",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "huro",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Huro",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "champion"
+      },
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro16"
+      },
+      {
+        "name": "Rain",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro8"
+      },
+      {
+        "name": "SnOw",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "ro4"
+      }
+    ]
+  },
+  {
+    "id": "asl20",
+    "season": 20,
+    "year": 2025,
+    "finished": false,
+    "results": [
+      {
+        "name": "Sharp",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Larva",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Stork",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Ample",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Ample",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "JyJ",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Bisu",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Speed",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Speed",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BaBy",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BaBy",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mini",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "soma",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soma",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "sSak",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Saber",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Saber",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Queen",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "EffOrt",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/EffOrt",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Calm",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Calm",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "HyuN",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/HyuN",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Rush",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Jaedong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Mong",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Paralyze",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Paralyze",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "hero",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "RoyaL",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BarrackS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "BTS",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/BTS",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Soulkey",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+        "races": [
+          "Zerg"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Best",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "SnOw",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+        "races": [
+          "Protoss"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      },
+      {
+        "name": "Light",
+        "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+        "races": [
+          "Terran"
+        ],
+        "country": "South Korea",
+        "bestFinish": "participant"
+      }
+    ]
+  }
+]
