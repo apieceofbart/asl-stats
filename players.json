@@ -1,0 +1,1533 @@
+[
+  {
+    "name": "sSak",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/SSak",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 13,
+    "ro16Count": 2,
+    "ro8Count": 2,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Shuttle",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle_(Player)",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 13,
+    "ro16Count": 3,
+    "ro8Count": 3,
+    "ro4Count": 2,
+    "finalistCount": 1,
+    "championCount": 1,
+    "lastParticipation": {
+      "season": 19,
+      "year": 2025
+    }
+  },
+  {
+    "name": "free",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Free",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 8,
+    "ro16Count": 3,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 18,
+      "year": 2024
+    }
+  },
+  {
+    "name": "EffOrt",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/EffOrt",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 10,
+    "ro16Count": 4,
+    "ro8Count": 3,
+    "ro4Count": 3,
+    "finalistCount": 1,
+    "championCount": 1,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Sharp",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Sharp",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 18,
+    "ro16Count": 7,
+    "ro8Count": 7,
+    "ro4Count": 3,
+    "finalistCount": 2,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Jaehoon",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Jaehoon",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 3,
+    "ro16Count": 1,
+    "ro8Count": 1,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 8,
+      "year": 2019
+    }
+  },
+  {
+    "name": "PianO",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/PianO",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 5,
+    "ro16Count": 1,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 14,
+      "year": 2022
+    }
+  },
+  {
+    "name": "Larva",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Larva_(Player)",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 11,
+    "ro16Count": 6,
+    "ro8Count": 5,
+    "ro4Count": 3,
+    "finalistCount": 1,
+    "championCount": 1,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Sea",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Sea",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 8,
+    "ro16Count": 2,
+    "ro8Count": 2,
+    "ro4Count": 2,
+    "finalistCount": 1,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 18,
+      "year": 2024
+    }
+  },
+  {
+    "name": "Flash",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Flash",
+    "country": "South Korea",
+    "races": [
+      "Terran",
+      "Random"
+    ],
+    "participantCount": 9,
+    "ro16Count": 9,
+    "ro8Count": 9,
+    "ro4Count": 7,
+    "finalistCount": 5,
+    "championCount": 4,
+    "lastParticipation": {
+      "season": 10,
+      "year": 2020
+    }
+  },
+  {
+    "name": "Mind",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Mind",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 12,
+    "ro16Count": 5,
+    "ro8Count": 4,
+    "ro4Count": 1,
+    "finalistCount": 1,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 19,
+      "year": 2025
+    }
+  },
+  {
+    "name": "ZerO",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/ZerO",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 12,
+    "ro16Count": 7,
+    "ro8Count": 6,
+    "ro4Count": 4,
+    "finalistCount": 2,
+    "championCount": 2,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Last",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Last",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 8,
+    "ro16Count": 5,
+    "ro8Count": 5,
+    "ro4Count": 3,
+    "finalistCount": 1,
+    "championCount": 1,
+    "lastParticipation": {
+      "season": 8,
+      "year": 2019
+    }
+  },
+  {
+    "name": "hero",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Hero",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 16,
+    "ro16Count": 15,
+    "ro8Count": 11,
+    "ro4Count": 7,
+    "finalistCount": 2,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "BeSt",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Best",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 20,
+    "ro16Count": 8,
+    "ro8Count": 7,
+    "ro4Count": 3,
+    "finalistCount": 1,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Mong",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Mong",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 17,
+    "ro16Count": 2,
+    "ro8Count": 1,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Bisu",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Bisu",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 14,
+    "ro16Count": 7,
+    "ro8Count": 7,
+    "ro4Count": 3,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "GuemChi",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/GuemChi",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 7,
+    "ro16Count": 1,
+    "ro8Count": 1,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 13,
+      "year": 2022
+    }
+  },
+  {
+    "name": "Ample",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Ample",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 7,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Rain",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Rain",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 12,
+    "ro16Count": 8,
+    "ro8Count": 8,
+    "ro4Count": 5,
+    "finalistCount": 2,
+    "championCount": 1,
+    "lastParticipation": {
+      "season": 19,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Light",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Light",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 19,
+    "ro16Count": 7,
+    "ro8Count": 7,
+    "ro4Count": 3,
+    "finalistCount": 2,
+    "championCount": 1,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Force(Name)",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Force(Name)",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 2,
+      "year": 2016
+    }
+  },
+  {
+    "name": "Stork",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Stork",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 15,
+    "ro16Count": 2,
+    "ro8Count": 2,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Rush",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Rush",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 18,
+    "ro16Count": 9,
+    "ro8Count": 9,
+    "ro4Count": 3,
+    "finalistCount": 2,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "MIsO",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/MIsO",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 8,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 14,
+      "year": 2022
+    }
+  },
+  {
+    "name": "Movie",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Movie",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 6,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 13,
+      "year": 2022
+    }
+  },
+  {
+    "name": "Soulkey",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Soulkey",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 18,
+    "ro16Count": 11,
+    "ro8Count": 11,
+    "ro4Count": 6,
+    "finalistCount": 4,
+    "championCount": 4,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Terror",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Terror",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 2,
+      "year": 2016
+    }
+  },
+  {
+    "name": "Jaedong",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Jaedong",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 14,
+    "ro16Count": 3,
+    "ro8Count": 3,
+    "ro4Count": 1,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Hint",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Hint",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 2,
+      "year": 2016
+    }
+  },
+  {
+    "name": "Iris",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Iris",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 2,
+      "year": 2016
+    }
+  },
+  {
+    "name": "Khala",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Khala",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 2,
+      "year": 2016
+    }
+  },
+  {
+    "name": "PURPOSE",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/index.php?title=PURPOSE&action=edit&redlink=1",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 3,
+      "year": 2017
+    }
+  },
+  {
+    "name": "Shine",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Shine",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 11,
+    "ro16Count": 2,
+    "ro8Count": 2,
+    "ro4Count": 1,
+    "finalistCount": 1,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 18,
+      "year": 2024
+    }
+  },
+  {
+    "name": "Snow",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Snow",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 18,
+    "ro16Count": 8,
+    "ro8Count": 8,
+    "ro4Count": 5,
+    "finalistCount": 2,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Mini",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Mini",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 18,
+    "ro16Count": 7,
+    "ro8Count": 7,
+    "ro4Count": 5,
+    "finalistCount": 4,
+    "championCount": 1,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Lazy",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Lazy",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 2,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 4,
+      "year": 2017
+    }
+  },
+  {
+    "name": "ggaemo",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Ggaemo",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 5,
+    "ro16Count": 2,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 14,
+      "year": 2022
+    }
+  },
+  {
+    "name": "Pusan",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Pusan",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 2,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 5,
+      "year": 2018
+    }
+  },
+  {
+    "name": "Hyun",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/HyuN",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 5,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Killer",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Killer",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 7,
+    "ro16Count": 1,
+    "ro8Count": 1,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 19,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Sky",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Sky",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 2,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 5,
+      "year": 2018
+    }
+  },
+  {
+    "name": "HiyA",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/HiyA",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 3,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 15,
+      "year": 2023
+    }
+  },
+  {
+    "name": "firebathero",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Firebathero",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 2,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 9,
+      "year": 2020
+    }
+  },
+  {
+    "name": "Horang2",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Horang2",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 7,
+    "ro16Count": 1,
+    "ro8Count": 1,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 14,
+      "year": 2022
+    }
+  },
+  {
+    "name": "Calm",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Calm",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 7,
+    "ro16Count": 1,
+    "ro8Count": 1,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Action",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Action",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 15,
+    "ro16Count": 6,
+    "ro8Count": 6,
+    "ro4Count": 1,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 19,
+      "year": 2025
+    }
+  },
+  {
+    "name": "ErOs_ByuL",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/ByuL",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 2,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 7,
+      "year": 2019
+    }
+  },
+  {
+    "name": "Sacsri",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Sacsri",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 8,
+    "ro16Count": 1,
+    "ro8Count": 1,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 18,
+      "year": 2024
+    }
+  },
+  {
+    "name": "Yerim2",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Yerim2",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 6,
+      "year": 2018
+    }
+  },
+  {
+    "name": "NaDa",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/NaDa",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 7,
+      "year": 2019
+    }
+  },
+  {
+    "name": "Tinkle",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Tinkle",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 7,
+      "year": 2019
+    }
+  },
+  {
+    "name": "ZeLoT",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/ZeLoT",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 3,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 17,
+      "year": 2024
+    }
+  },
+  {
+    "name": "Modesty",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Modesty",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 7,
+      "year": 2019
+    }
+  },
+  {
+    "name": "JyJ",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/JyJ",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 13,
+    "ro16Count": 4,
+    "ro8Count": 4,
+    "ro4Count": 1,
+    "finalistCount": 1,
+    "championCount": 1,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Tyson",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Tyson",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 3,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 19,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Soma",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Soma",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 10,
+    "ro16Count": 6,
+    "ro8Count": 4,
+    "ro4Count": 3,
+    "finalistCount": 1,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "nOOB",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/NOOB",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 3,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 12,
+      "year": 2021
+    }
+  },
+  {
+    "name": "Hyuk",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Hyuk",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 2,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 12,
+      "year": 2021
+    }
+  },
+  {
+    "name": "beast",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Beast",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 5,
+    "ro16Count": 1,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 17,
+      "year": 2024
+    }
+  },
+  {
+    "name": "huro",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Huro",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 4,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 19,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Ss1nz",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Ss1nz",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 3,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 12,
+      "year": 2021
+    }
+  },
+  {
+    "name": "Sea.KH",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Brain",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 9,
+      "year": 2020
+    }
+  },
+  {
+    "name": "ForGG",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/FOrGG",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 9,
+      "year": 2020
+    }
+  },
+  {
+    "name": "Sorry",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/RoyaL",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 12,
+    "ro16Count": 2,
+    "ro8Count": 2,
+    "ro4Count": 1,
+    "finalistCount": 1,
+    "championCount": 1,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "BarrackS",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/BarrackS",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 11,
+    "ro16Count": 1,
+    "ro8Count": 1,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Leta",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Leta",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 3,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 16,
+      "year": 2023
+    }
+  },
+  {
+    "name": "Yoon",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Yoon_(Amateur)",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 10,
+      "year": 2020
+    }
+  },
+  {
+    "name": "Sexy",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Speed",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 5,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Shuttle",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 11,
+      "year": 2021
+    }
+  },
+  {
+    "name": "Scan",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Scan",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 3,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 19,
+      "year": 2025
+    }
+  },
+  {
+    "name": "hani",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Hani",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 11,
+      "year": 2021
+    }
+  },
+  {
+    "name": "815",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/815_(Player)",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 1,
+    "ro16Count": 1,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 12,
+      "year": 2021
+    }
+  },
+  {
+    "name": "Ruin",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Ruin",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 3,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 15,
+      "year": 2023
+    }
+  },
+  {
+    "name": "BishOp",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/BishOp",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 2,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 15,
+      "year": 2023
+    }
+  },
+  {
+    "name": "DDasik",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/DDasik",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 14,
+      "year": 2022
+    }
+  },
+  {
+    "name": "ivOry 인치호",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/IvOry",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 16,
+      "year": 2023
+    }
+  },
+  {
+    "name": "TaeNgGu",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/TaeNgGu",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 17,
+      "year": 2024
+    }
+  },
+  {
+    "name": "TY",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/BaBy",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 2,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "1127",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/1127",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 18,
+      "year": 2024
+    }
+  },
+  {
+    "name": "Motive",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Motive",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 18,
+      "year": 2024
+    }
+  },
+  {
+    "name": "BTS",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/BTS",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 2,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Skey",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Skey",
+    "country": "South Korea",
+    "races": [
+      "Terran"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 19,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Saber",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Saber",
+    "country": "South Korea",
+    "races": [
+      "Zerg"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  },
+  {
+    "name": "Paralyze",
+    "liquipediaUrl": "https://liquipedia.net/starcraft/Paralyze",
+    "country": "South Korea",
+    "races": [
+      "Protoss"
+    ],
+    "participantCount": 1,
+    "ro16Count": 0,
+    "ro8Count": 0,
+    "ro4Count": 0,
+    "finalistCount": 0,
+    "championCount": 0,
+    "lastParticipation": {
+      "season": 20,
+      "year": 2025
+    }
+  }
+]
