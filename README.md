@@ -15,6 +15,7 @@ A project to scrape, aggregate, and display player results from all Afreeca Star
 ---
 
 ## Repo Structure
+
 ```
 asl-stats/
 │
@@ -33,7 +34,7 @@ asl-stats/
 
 ### Prerequisites
 
-- Node.js (v20 or newer recommended)
+- Node.js (v22 or newer recommended)
 - npm (comes with Node.js)
 
 ### Setup
