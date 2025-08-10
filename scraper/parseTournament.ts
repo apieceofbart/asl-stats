@@ -1,10 +1,16 @@
 import * as cheerio from "cheerio";
-import type { PlayerResult, TournamentData } from "./types.ts";
+import type { PlayerResult, TournamentData } from "../types.ts";
 import { assert } from "console";
 
 export function parseTournament(
   html: string,
-  metadata: { id: string; season: number; year: number; finished: boolean }
+  metadata: {
+    id: string;
+    season: number;
+    year: number;
+    finished: boolean;
+    url: string;
+  }
 ): TournamentData {
   const $ = cheerio.load(html);
 
@@ -116,8 +122,6 @@ export function parseTournament(
       );
     });
 
-    // console.log(playerOccurrenceInEliminationBracket);
-
     const occurrencesToBestFinish: Record<number, PlayerResult["bestFinish"]> =
       {
         1: "ro8",
@@ -144,8 +148,6 @@ export function parseTournament(
       ...playerMap.get(winner)!,
       bestFinish: "champion",
     });
-
-    // console.log("Player results:", Array.from(playerMap.values()));
 
     const playerValues = Array.from(playerMap.values());
 
@@ -191,6 +193,7 @@ export function parseTournament(
   return {
     id: metadata.id,
     season: metadata.season,
+    url: metadata.url,
     year: metadata.year,
     finished: metadata.finished,
     results: Array.from(playerMap.values()),

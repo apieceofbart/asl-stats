@@ -1,8 +1,7 @@
 import fs from "fs";
 import path from "path";
-// import * as cheerio from "cheerio";
 import { parseTournament } from "./parseTournament.ts";
-import type { Tournament, TournamentData } from "./types.ts";
+import type { Tournament, TournamentData } from "../types.ts";
 
 const __dirname = path.resolve();
 const urlsPath = path.join(__dirname, ".", "data", "urls.json");
