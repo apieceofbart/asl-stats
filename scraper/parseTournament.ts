@@ -9,15 +9,25 @@ export function parseTournament(
   const $ = cheerio.load(html);
 
   const playerMap = new Map<string, PlayerResult>();
-  const players = $(
+  let players = $(
     "table.wikitable.wikitable-bordered.grouptable .inline-player"
   );
+
+  // starting from ASL11 html changed
+  if (players.length === 0) {
+    players = $(".participantTable .block-player");
+  }
 
   players.each((index, element) => {
     const player = $(element);
 
     // For example, get the player's name (usually the text inside)
-    const name = player.text().trim();
+    let name = player.text().trim();
+
+    if (player.find("sup").length) {
+      // if there's footnote remove last character from player name
+      name = name.slice(0, -1);
+    }
 
     // Get the Liquipedia URL if it's a link inside the element
     const link = player.find("a").attr("href");
