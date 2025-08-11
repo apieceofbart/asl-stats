@@ -7,7 +7,7 @@
       "Terran"
     ],
     "participantCount": 13,
-    "ro16Count": 2,
+    "ro16Count": 5,
     "ro8Count": 2,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -24,8 +24,8 @@
     "races": [
       "Protoss"
     ],
-    "participantCount": 13,
-    "ro16Count": 3,
+    "participantCount": 14,
+    "ro16Count": 9,
     "ro8Count": 3,
     "ro4Count": 2,
     "finalistCount": 1,
@@ -61,7 +61,7 @@
       "Zerg"
     ],
     "participantCount": 10,
-    "ro16Count": 4,
+    "ro16Count": 8,
     "ro8Count": 3,
     "ro4Count": 3,
     "finalistCount": 1,
@@ -79,7 +79,7 @@
       "Terran"
     ],
     "participantCount": 18,
-    "ro16Count": 7,
+    "ro16Count": 12,
     "ro8Count": 7,
     "ro4Count": 3,
     "finalistCount": 2,
@@ -97,7 +97,7 @@
       "Protoss"
     ],
     "participantCount": 3,
-    "ro16Count": 1,
+    "ro16Count": 2,
     "ro8Count": 1,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -115,7 +115,7 @@
       "Terran"
     ],
     "participantCount": 5,
-    "ro16Count": 1,
+    "ro16Count": 2,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -133,7 +133,7 @@
       "Zerg"
     ],
     "participantCount": 11,
-    "ro16Count": 6,
+    "ro16Count": 8,
     "ro8Count": 5,
     "ro4Count": 3,
     "finalistCount": 1,
@@ -151,7 +151,7 @@
       "Terran"
     ],
     "participantCount": 8,
-    "ro16Count": 2,
+    "ro16Count": 5,
     "ro8Count": 2,
     "ro4Count": 2,
     "finalistCount": 1,
@@ -188,7 +188,7 @@
       "Terran"
     ],
     "participantCount": 12,
-    "ro16Count": 5,
+    "ro16Count": 9,
     "ro8Count": 4,
     "ro4Count": 1,
     "finalistCount": 1,
@@ -206,7 +206,7 @@
       "Zerg"
     ],
     "participantCount": 12,
-    "ro16Count": 7,
+    "ro16Count": 9,
     "ro8Count": 6,
     "ro4Count": 4,
     "finalistCount": 2,
@@ -224,7 +224,7 @@
       "Terran"
     ],
     "participantCount": 8,
-    "ro16Count": 5,
+    "ro16Count": 6,
     "ro8Count": 5,
     "ro4Count": 3,
     "finalistCount": 1,
@@ -260,7 +260,7 @@
       "Protoss"
     ],
     "participantCount": 20,
-    "ro16Count": 8,
+    "ro16Count": 16,
     "ro8Count": 7,
     "ro4Count": 3,
     "finalistCount": 1,
@@ -278,7 +278,7 @@
       "Terran"
     ],
     "participantCount": 17,
-    "ro16Count": 2,
+    "ro16Count": 7,
     "ro8Count": 1,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -296,7 +296,7 @@
       "Protoss"
     ],
     "participantCount": 14,
-    "ro16Count": 7,
+    "ro16Count": 12,
     "ro8Count": 7,
     "ro4Count": 3,
     "finalistCount": 0,
@@ -314,7 +314,7 @@
       "Protoss"
     ],
     "participantCount": 7,
-    "ro16Count": 1,
+    "ro16Count": 3,
     "ro8Count": 1,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -332,7 +332,7 @@
       "Terran"
     ],
     "participantCount": 7,
-    "ro16Count": 0,
+    "ro16Count": 1,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -350,7 +350,7 @@
       "Protoss"
     ],
     "participantCount": 12,
-    "ro16Count": 8,
+    "ro16Count": 9,
     "ro8Count": 8,
     "ro4Count": 5,
     "finalistCount": 2,
@@ -368,7 +368,7 @@
       "Terran"
     ],
     "participantCount": 19,
-    "ro16Count": 7,
+    "ro16Count": 13,
     "ro8Count": 7,
     "ro4Count": 3,
     "finalistCount": 2,
@@ -404,7 +404,7 @@
       "Protoss"
     ],
     "participantCount": 15,
-    "ro16Count": 2,
+    "ro16Count": 7,
     "ro8Count": 2,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -422,7 +422,7 @@
       "Terran"
     ],
     "participantCount": 18,
-    "ro16Count": 9,
+    "ro16Count": 12,
     "ro8Count": 9,
     "ro4Count": 3,
     "finalistCount": 2,
@@ -440,7 +440,7 @@
       "Zerg"
     ],
     "participantCount": 8,
-    "ro16Count": 0,
+    "ro16Count": 1,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -458,7 +458,7 @@
       "Protoss"
     ],
     "participantCount": 6,
-    "ro16Count": 0,
+    "ro16Count": 2,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -476,7 +476,7 @@
       "Zerg"
     ],
     "participantCount": 18,
-    "ro16Count": 11,
+    "ro16Count": 15,
     "ro8Count": 11,
     "ro4Count": 6,
     "finalistCount": 4,
@@ -512,7 +512,7 @@
       "Zerg"
     ],
     "participantCount": 14,
-    "ro16Count": 3,
+    "ro16Count": 9,
     "ro8Count": 3,
     "ro4Count": 1,
     "finalistCount": 0,
@@ -602,7 +602,7 @@
       "Zerg"
     ],
     "participantCount": 11,
-    "ro16Count": 2,
+    "ro16Count": 6,
     "ro8Count": 2,
     "ro4Count": 1,
     "finalistCount": 1,
@@ -620,7 +620,7 @@
       "Protoss"
     ],
     "participantCount": 18,
-    "ro16Count": 8,
+    "ro16Count": 13,
     "ro8Count": 8,
     "ro4Count": 5,
     "finalistCount": 2,
@@ -638,7 +638,7 @@
       "Protoss"
     ],
     "participantCount": 18,
-    "ro16Count": 7,
+    "ro16Count": 13,
     "ro8Count": 7,
     "ro4Count": 5,
     "finalistCount": 4,
@@ -710,7 +710,7 @@
       "Zerg"
     ],
     "participantCount": 5,
-    "ro16Count": 0,
+    "ro16Count": 1,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -728,7 +728,7 @@
       "Zerg"
     ],
     "participantCount": 7,
-    "ro16Count": 1,
+    "ro16Count": 2,
     "ro8Count": 1,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -800,7 +800,7 @@
       "Protoss"
     ],
     "participantCount": 7,
-    "ro16Count": 1,
+    "ro16Count": 3,
     "ro8Count": 1,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -818,7 +818,7 @@
       "Zerg"
     ],
     "participantCount": 7,
-    "ro16Count": 1,
+    "ro16Count": 2,
     "ro8Count": 1,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -836,7 +836,7 @@
       "Zerg"
     ],
     "participantCount": 15,
-    "ro16Count": 6,
+    "ro16Count": 11,
     "ro8Count": 6,
     "ro4Count": 1,
     "finalistCount": 0,
@@ -872,7 +872,7 @@
       "Zerg"
     ],
     "participantCount": 8,
-    "ro16Count": 1,
+    "ro16Count": 2,
     "ro8Count": 1,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -944,7 +944,7 @@
       "Zerg"
     ],
     "participantCount": 3,
-    "ro16Count": 0,
+    "ro16Count": 1,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -962,7 +962,7 @@
       "Zerg"
     ],
     "participantCount": 1,
-    "ro16Count": 0,
+    "ro16Count": 1,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -980,7 +980,7 @@
       "Terran"
     ],
     "participantCount": 13,
-    "ro16Count": 4,
+    "ro16Count": 8,
     "ro8Count": 4,
     "ro4Count": 1,
     "finalistCount": 1,
@@ -1016,7 +1016,7 @@
       "Zerg"
     ],
     "participantCount": 10,
-    "ro16Count": 6,
+    "ro16Count": 7,
     "ro8Count": 4,
     "ro4Count": 3,
     "finalistCount": 1,
@@ -1034,7 +1034,7 @@
       "Protoss"
     ],
     "participantCount": 3,
-    "ro16Count": 0,
+    "ro16Count": 1,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -1124,7 +1124,7 @@
       "Protoss"
     ],
     "participantCount": 1,
-    "ro16Count": 0,
+    "ro16Count": 1,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -1160,7 +1160,7 @@
       "Terran"
     ],
     "participantCount": 12,
-    "ro16Count": 2,
+    "ro16Count": 8,
     "ro8Count": 2,
     "ro4Count": 1,
     "finalistCount": 1,
@@ -1178,7 +1178,7 @@
       "Terran"
     ],
     "participantCount": 11,
-    "ro16Count": 1,
+    "ro16Count": 7,
     "ro8Count": 1,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -1196,7 +1196,7 @@
       "Terran"
     ],
     "participantCount": 3,
-    "ro16Count": 0,
+    "ro16Count": 1,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -1232,7 +1232,7 @@
       "Terran"
     ],
     "participantCount": 5,
-    "ro16Count": 0,
+    "ro16Count": 2,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,
@@ -1243,24 +1243,6 @@
     }
   },
   {
-    "name": "Shuttle",
-    "liquipediaUrl": "https://liquipedia.net/starcraft/Shuttle",
-    "country": "South Korea",
-    "races": [
-      "Protoss"
-    ],
-    "participantCount": 1,
-    "ro16Count": 0,
-    "ro8Count": 0,
-    "ro4Count": 0,
-    "finalistCount": 0,
-    "championCount": 0,
-    "lastParticipation": {
-      "season": 11,
-      "year": 2021
-    }
-  },
-  {
     "name": "Scan",
     "liquipediaUrl": "https://liquipedia.net/starcraft/Scan",
     "country": "South Korea",
@@ -1268,7 +1250,7 @@
       "Terran"
     ],
     "participantCount": 3,
-    "ro16Count": 0,
+    "ro16Count": 1,
     "ro8Count": 0,
     "ro4Count": 0,
     "finalistCount": 0,

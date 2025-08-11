@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import type { TournamentData } from "../types";
+import { assert } from "console";
 
 interface PlayerStats {
   name: string;
@@ -70,13 +71,6 @@ for (const tournament of tournaments) {
         const countKey = stage + "Count"; // e.g. ro16Count
         // Defensive check, but these keys should exist
         if (countKey in player) {
-          if (player.name === "BeSt") {
-            console.log(
-              "adding participation for best",
-              countKey,
-              tournament.season
-            );
-          }
           // @ts-ignore
           player[countKey]++;
         }
@@ -96,6 +90,17 @@ for (const tournament of tournaments) {
     }
   }
 }
+
+// check for duplicate players by name
+const duplicatePlayers = Object.values(playersMap).filter(
+  (player, index, self) =>
+    self.findIndex((p) => p.name === player.name) !== index
+);
+
+assert(
+  duplicatePlayers.length === 0,
+  `Duplicated players found: ${duplicatePlayers.map((p) => p.name).join(", ")}`
+);
 
 // Save players.json
 fs.writeFileSync(

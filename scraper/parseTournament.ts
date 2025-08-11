@@ -42,7 +42,13 @@ export function parseTournament(
     const normalizedName = normalizePlayerName(name);
 
     // Get the Liquipedia URL if it's a link inside the element
-    const link = player.find("a").attr("href");
+    let link = player.find("a").attr("href");
+
+    // handle "Shuttle" case - in one tournament the link to shuttle profile is wrong
+    // since we're using link as a unique key we need to fix this otherwise we'll have 2 entries for shuttle
+    if (link === "/starcraft/Shuttle") {
+      link = "/starcraft/Shuttle_(Player)";
+    }
     const liquipediaUrl = `https://liquipedia.net${link}`;
 
     // Extract country from the flag image's alt attribute
@@ -104,7 +110,7 @@ export function parseTournament(
       });
 
       playerMap.forEach((player) => {
-        if (playerNamesInRoundOf16.has(player.name)) {
+        if (playerNamesInRoundOf16.has(normalizePlayerName(player.name))) {
           player.bestFinish = "ro16";
         }
       });
