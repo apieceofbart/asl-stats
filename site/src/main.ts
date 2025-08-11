@@ -13,7 +13,7 @@ interface Player {
 }
 
 async function loadPlayers(): Promise<Player[]> {
-  const res = await fetch("/players.json");
+  const res = await fetch("players.json");
   return res.json();
 }
 
