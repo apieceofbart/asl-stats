@@ -102,6 +102,9 @@ assert(
   `Duplicated players found: ${duplicatePlayers.map((p) => p.name).join(", ")}`
 );
 
+// Rename some of the players
+playersMap["https://liquipedia.net/starcraft/RoyaL"].name = "RoyaL";
+
 // Save players.json
 fs.writeFileSync(
   playersPath,
